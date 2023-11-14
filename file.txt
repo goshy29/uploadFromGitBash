@@ -1,7 +1,4 @@
 some text
 other text
-<<<<<<< HEAD
 main branch
-=======
 third-branch
->>>>>>> third-branch
